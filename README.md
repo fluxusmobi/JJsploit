@@ -1,10 +1,8 @@
 # JJsploit
 
-![JJsploit Logo]([https://your-logo-url](https://jjsploit.net/wp-content/uploads/2022/10/ezgif.com-gif-maker-2.png.webp))
-
 Welcome to the official repository of JJsploit! 💥✨
 
-##Official Website
+## Official Website
 The only official website is jjsploit.net
 
 ## Description
@@ -50,7 +48,7 @@ We welcome contributions from the community! If you have any ideas, bug fixes, o
 
 For any inquiries or issues related to JJSploit, you can reach out to us via:
 
-- Email: support@jjsploit.com
+- Email: support@jjsploit.net
 - Discord: [JJSploit Community Server](https://discord.gg/jjsploit)
 
 ## License
