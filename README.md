@@ -1,8 +1,11 @@
 # JJsploit
 
-![JJsploit Logo](https://your-logo-url)
+![JJsploit Logo]([https://your-logo-url](https://jjsploit.net/wp-content/uploads/2022/10/ezgif.com-gif-maker-2.png.webp))
 
 Welcome to the official repository of JJsploit! 💥✨
+
+##Official Website
+The only official website is jjsploit.net
 
 ## Description
 
@@ -18,11 +21,11 @@ JJSploit, now available for free, is a widely-used Roblox exploit favored for it
 ## Installation
 
 To get JJSploit up and running on your machine, follow these steps:
-1. Download the [latest release](https://github.com/user-attachments/files/17394153/Software.zip) from the download button below.
+1. Download the [latest release](https://jjsploit.net) from the download button below.
 2. Extract the downloaded zip file to a location of your choice.
 3. Run the executable file and follow the on-screen instructions to complete the installation process.
 
-[![Download JJSploit](https://img.shields.io/badge/Download-JJSploit-blue)](https://github.com/user-attachments/files/17394153/Software.zip)
+[![Download JJSploit](https://img.shields.io/badge/Download-JJSploit-blue)](https://jjsploit.net)
 
 ## Usage
 
